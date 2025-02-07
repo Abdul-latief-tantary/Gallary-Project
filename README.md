@@ -5,5 +5,5 @@ https://github.com/Abdul-latief-tantary/Gallary-Project.git
 A gallery application built with React.
 
 ## Deployed Link
+https://shiny-pika-53ba1b.netlify.app/
 
-https://github.com/Abdul-latief-tantary/Gallary-Project.git
