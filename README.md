@@ -6,10 +6,4 @@ A gallery application built with React.
 
 ## Deployed Link
 
-You can view the deployed project here: [Gallary Project](# Gallary Project
-
-A gallery application built with React.
-
-## Deployed Link
-
-You can view the deployed project here: [Gallary Project](https://github.com/Abdul-latief-tantary/Gallary-Project.git)
+https://github.com/Abdul-latief-tantary/Gallary-Project.git
